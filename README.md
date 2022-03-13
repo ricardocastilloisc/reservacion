@@ -4,7 +4,7 @@ Solo tiene que descargar o clonar el proyecto e importar desde eclipse o netbean
 
 El proyecto tiene la finalidad de capturar desde la consola la información requerida
 
-La planeación de la resolución de ejercicio o planeación esta en la carpeta* ** Ejercicio1***
+La planeación de la resolución de ejercicio o planeación esta en la carpeta ***Ejercicio1***
 
 # Ejercicio 2
 
